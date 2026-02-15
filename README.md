@@ -1,10 +1,10 @@
-# 📰 News Interpreter System
+# 📰 SamacharSense
 
 > Transforming news from information overload to actionable understanding
 
-## 🎯 What is News Interpreter?
+## 🎯 What is SamacharSense
 
-News Interpreter is a mobile-first platform designed for Indian citizens to understand news by **interpreting** its meaning, context, and personal impact—not just summarizing content.
+SamacharSense is a mobile-first platform designed for Indian citizens to understand news by **interpreting** its meaning, context, and personal impact—not just summarizing content.
 
 ### The Problem
 
