@@ -1,7 +1,7 @@
-# Design Document:  WhyItMatters
+# Design Document:  SamacharSense
 
 ## Overview
-WhyItMatters is aNews Interpreter System that is an AWS-based platform that transforms traditional news consumption by interpreting meaning, context, and personal impact rather than summarizing content.
+SamacharSense is aNews Interpreter System that is an AWS-based platform that transforms traditional news consumption by interpreting meaning, context, and personal impact rather than summarizing content.
 
 ### Core Philosophy
 
