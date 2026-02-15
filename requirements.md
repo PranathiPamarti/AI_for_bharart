@@ -1,8 +1,8 @@
-# Requirements Document: WhyItMatters
+# Requirements Document: SamacharSense
 
 ## Introduction
 
-WhyItMatters is a mobile-first platform designed to help Indian citizens understand news by interpreting its meaning, context, and personal impact rather than merely summarizing content.
+SamacharSense is a mobile-first platform designed to help Indian citizens understand news by interpreting its meaning, context, and personal impact rather than merely summarizing content.
 
 ### Vision
 
